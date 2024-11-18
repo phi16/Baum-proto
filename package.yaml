@@ -33,3 +33,6 @@ executables:
     - -with-rtsopts=-N
     dependencies:
     - Baum-proto
+
+default-extensions:
+  - GADTs
